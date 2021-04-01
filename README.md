@@ -2,6 +2,10 @@
 #### 309552014 陳亮融
 [![Build Status](https://travis-ci.com/pikachu04230/309552014.svg?branch=main)](https://travis-ci.com/pikachu04230/309552014)
 
-[Imgur](https://i.imgur.com/Q791aTm.png)
-
-[Imgur](https://i.imgur.com/MBTTC6C.png)
+<div style="text-align: center">
+    <img src="https://i.imgur.com/Q791aTm.png"/>
+    <img src="https://i.imgur.com/MBTTC6C.png"/>
+    <img src=""/>
+    <img src=""/>
+    <img src=""/>
+</div>
