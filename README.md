@@ -23,5 +23,5 @@
 - Test on Travis-CI
 <div style="text-align: center">
     <img src="https://i.imgur.com/cmtIQKv.png"/>
-    <img src="https://i.imgur.com/YH3d11w.png"/>
+    <img src="https://i.imgur.com/5QQojL8.png"/>
 </div>
